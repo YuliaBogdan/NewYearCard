@@ -1,0 +1,11 @@
+body{
+    background-color: #1a0d81;
+}
+.snowlake{
+    position: fixed;
+    top:50px;
+    left: 100px;
+    background: url(snowflake_m.png);
+    width: 32px;
+    height: 33px;
+}
